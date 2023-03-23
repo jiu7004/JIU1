@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+</Project>
+
+<!-- ㅌxlm 형태를 띈다. 프로잭트 설명해주는 파일. exe > 바이너리 파일 만드는 것 / 직접 수정하는 것 추천x  -->

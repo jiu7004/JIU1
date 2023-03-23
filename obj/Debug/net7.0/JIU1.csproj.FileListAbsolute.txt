@@ -1,0 +1,15 @@
+/workspaces/JIU1/bin/Debug/net7.0/JIU1
+/workspaces/JIU1/bin/Debug/net7.0/JIU1.deps.json
+/workspaces/JIU1/bin/Debug/net7.0/JIU1.runtimeconfig.json
+/workspaces/JIU1/bin/Debug/net7.0/JIU1.dll
+/workspaces/JIU1/bin/Debug/net7.0/JIU1.pdb
+/workspaces/JIU1/obj/Debug/net7.0/JIU1.csproj.AssemblyReference.cache
+/workspaces/JIU1/obj/Debug/net7.0/JIU1.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/JIU1/obj/Debug/net7.0/JIU1.AssemblyInfoInputs.cache
+/workspaces/JIU1/obj/Debug/net7.0/JIU1.AssemblyInfo.cs
+/workspaces/JIU1/obj/Debug/net7.0/JIU1.csproj.CoreCompileInputs.cache
+/workspaces/JIU1/obj/Debug/net7.0/JIU1.dll
+/workspaces/JIU1/obj/Debug/net7.0/refint/JIU1.dll
+/workspaces/JIU1/obj/Debug/net7.0/JIU1.pdb
+/workspaces/JIU1/obj/Debug/net7.0/JIU1.genruntimeconfig.cache
+/workspaces/JIU1/obj/Debug/net7.0/ref/JIU1.dll
